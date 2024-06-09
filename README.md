@@ -10,7 +10,7 @@
     <h3>👨🏽‍💻 Sobre mim:</h3>
         <p>• 📚 Atualmente estou aprendendo: <b>Desenvolvimento de jogos com C# na Unity, participando de uma iniciação científica.</b></p>
         <p>• 💬 Me pergunte sobre: <b>Qualquer coisa</b>, estou sempre interessado em saber sobre assuntos diversos</p>
-</div><br>
+</div><br><br><br>
 
 <div align="center">
     <img height="155em" src="https://github-readme-stats-ten-chi-54.vercel.app/api?username=ApenasAngelo&show_icons=true&theme=transparent" alt="ApenasAngelo"/>
