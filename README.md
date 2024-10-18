@@ -12,11 +12,6 @@
         <p>• 💬 Me pergunte sobre: <b>Qualquer coisa</b>, estou sempre interessado em saber sobre assuntos diversos</p>
 </div><br><br><br>
 
-<div align="center">
-    <img height="155em" src="https://github-readme-stats-ten-chi-54.vercel.app/api?username=ApenasAngelo&show_icons=true&theme=transparent" alt="ApenasAngelo"/>
-    <img height="155em" src="https://github-readme-stats-ten-chi-54.vercel.app/api/top-langs?username=ApenasAngelo&show_icons=true&theme=transparent" alt="ApenasAngelo"/>
-</div>
-    
 ---
 
 <div>
